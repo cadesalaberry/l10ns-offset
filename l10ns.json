@@ -1,0 +1,31 @@
+{
+  "defaultProject": "core",
+  "projects": {
+    "core": {
+      "timezones": [
+        "America/Los_Angeles"
+      ],
+      "currencies": [
+        "USD"
+      ],
+      "interface": {
+        "autoOpen": true,
+        "port": 3001
+      },
+      "languages": {
+        "en-US": "English (US)",
+        "es-ES": "Spanish (Spain)"
+      },
+      "defaultLanguage": "en-US",
+      "programmingLanguage": "javascript",
+      "store": "localizations//",
+      "output": "www//assets//localizations",
+      "source": [
+        "www/components/*.js",
+        "www/pages/*.js",
+        "www/models/*.js",
+        "www/services//*.js"
+      ]
+    }
+  }
+}

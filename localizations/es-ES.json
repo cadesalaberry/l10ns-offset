@@ -1,0 +1,454 @@
+[
+  {
+    "files": [
+      "www/components/badge.preview.js"
+    ],
+    "id": "p7kr9rEEte",
+    "key": "BADGE__PREVIEW__NEXTLEVEL",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "",
+    "variables": [
+      "nextLevelName",
+      "pointsLeft"
+    ]
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "xerkp7yKspa",
+    "key": "DISCLAIMER_ACCEPT",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Aceptar",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "gEd8e77aHgz",
+    "key": "DISCLAIMER_ACTION",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Pincha para leer",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "67rad5EGsj9",
+    "key": "DISCLAIMER_INSTRUCTIONS",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Antes de firmar debes aceptar el descargo de responsabilidad",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "Ropr7j4xsxp",
+    "key": "DISCLAIMER_REFUSE",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Rechazar",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "r7kad5EGsjz",
+    "key": "DISCLAIMER_TITLE",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Descargo de responsabilidad",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "q4gX96ERUR",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIFICATION",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": " ¡Avísame!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "kG9rXngRUe",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__ONE",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Pincha el botón debajo",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "p7kryognUx",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__THREE",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Activar el botón de notificación",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "oG9rXnkRU8",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__TWO",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Elige \"notificationes\"",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "oG9rBq9jsa",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__SETTINGS",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Abre las configuraciones",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "RoprXA68fn",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__STRONG",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": " ¡Actívalos ahora!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "xerkqA9nfn",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__TITLE",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Parece que has rechazado las notificationes antes",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.email.js"
+    ],
+    "id": "95kryEK4toG",
+    "key": "SIGNUP__EMAIL__CONFIRM",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Sí",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.email.js"
+    ],
+    "id": "yKkrqE9btoX",
+    "key": "SIGNUP__EMAIL__EDIT",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Editar",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "dX9an5A4tpX",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__MSG",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Parece que no has validado tu correo electrónico todavía. Por vafor, comprueba tu bandeja de entrada y los spams.",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "95kryEK4tBL",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__OK",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "OK",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "KzBaM7dotpG",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__RESEND",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Cancelar",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "q4gpXMnbuqa",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__TITLE",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Oops!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.localization.js"
+    ],
+    "id": "r7karknRsen",
+    "key": "SIGNUP__LOCALIZATION_EMPTY",
+    "new": true,
+    "timestamp": "2016-07-06T17:51:44.851Z",
+    "value": "Se parece que no te ha recogido una localización.",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "jB9bzArpsye",
+    "key": "AWARDS__CARD__SCORE__UNIT",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Puntos",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "45kb8GaesjA",
+    "key": "AWARDS__CARD__TITLE",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Puntuación",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "bXd45grjsK5",
+    "key": "AWARDS__HEADER__TITLE",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Premios",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "r7k4MG8dsjB",
+    "key": "AWARDS__PROGRESS__SUBTITLE",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "{current}/{total} puntos",
+    "variables": [
+      "current",
+      "total"
+    ]
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "BbejE6x7sop",
+    "key": "AWARDS__PROGRESS__SUMMARY",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Siguiente nivel en",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "eEdb5Krpfex",
+    "key": "AWARDS__PROGRESS__SUMMARY__SCORE_WITH_UNIT",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "{score} {score, selectordinal, =1{punto} other{puntos}}",
+    "variables": [
+      "score"
+    ]
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "95k48jaesoy",
+    "key": "AWARDS__TABS__ACHIEVEMENTS__EMPTY",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Todavía no tienes medalla!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/awards.js"
+    ],
+    "id": "dX947grjs5E",
+    "key": "AWARDS__TABS__ACHIEVEMENTS__TITLE",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Logros",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/badge.preview.js"
+    ],
+    "id": "p7k4r7pACj",
+    "key": "BADGE__PREVIEW__LASTLEVEL_REACHED",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Enhorabuena! Has alcanzado el último nivel! ",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/badge.preview.js"
+    ],
+    "id": "MzBoaz67fe",
+    "key": "BADGE__PREVIEW__NEXTLEVEL__TITLE",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Próximo paso",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/badge.preview.js"
+    ],
+    "id": "eEdbaEeqfX",
+    "key": "BADGE__PREVIEW__PROGRESS__STATUS",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Has alcanzado {score, plural, one{# punto} other{# puntos}} en {category}",
+    "variables": [
+      "score",
+      "category"
+    ]
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "aEd5edq5CLa",
+    "key": "COACH_CHEERUP_1",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Es lo de que estoy hablando!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "r7kMdkAMfXe",
+    "key": "COACH_CHEERUP_2",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Era increíble!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "kG97p9d7SjR",
+    "key": "COACH_CHEERUP_3",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Te mereces un abrazo muy fuerte!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "5jgaKgMaInk",
+    "key": "COACH_COMPLIMENT_ACTION_1",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "#orgulloso",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "KzB8bB78I66",
+    "key": "COACH_COMPLIMENT_ACTION_2",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "Lo sé",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "q4gaKgMaFkz",
+    "key": "COACH_CONGRATULATION_1",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Bien hecho!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "BbeE7e5EF9E",
+    "key": "COACH_CONGRATULATION_2",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Estupendo!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "jB9zp98zhBo",
+    "key": "COACH_CONGRATULATION_3",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Bravo!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "8drperjpULn",
+    "key": "COACH_CONGRATULATION_4",
+    "new": false,
+    "timestamp": "2016-06-21T16:20:15.918Z",
+    "value": "¡Genial!",
+    "variables": []
+  }
+]
+

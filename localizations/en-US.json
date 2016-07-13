@@ -1,0 +1,448 @@
+[
+  {
+    "files": [
+      "www/components/badge.preview.js"
+    ],
+    "id": "p7kr9rEEte",
+    "key": "BADGE__PREVIEW__NEXTLEVEL",
+    "new": false,
+    "timestamp": "2016-07-04T16:19:08.813Z",
+    "value": "{nextLevelName} ({pointsLeft} {pointsLeft, plural, one {point} other {points}} left)",
+    "variables": [
+      "nextLevelName",
+      "pointsLeft"
+    ]
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "gEd8e77aHgz",
+    "key": "DISCLAIMER_ACTION",
+    "new": false,
+    "timestamp": "2016-07-04T10:54:33.759Z",
+    "value": "Click to read",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "xerkp7yKspa",
+    "key": "DISCLAIMER_ACCEPT",
+    "new": false,
+    "timestamp": "2016-07-04T10:49:22.141Z",
+    "value": "Accept",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "67rad5EGsj9",
+    "key": "DISCLAIMER_INSTRUCTIONS",
+    "new": false,
+    "timestamp": "2016-07-04T10:49:22.141Z",
+    "value": "Before signing up you should accept the the disclaimer",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "Ropr7j4xsxp",
+    "key": "DISCLAIMER_REFUSE",
+    "new": false,
+    "timestamp": "2016-07-04T10:49:22.141Z",
+    "value": "Refuse",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/popup.disclaimer.js"
+    ],
+    "id": "r7kad5EGsjz",
+    "key": "DISCLAIMER_TITLE",
+    "new": false,
+    "timestamp": "2016-07-04T10:49:22.141Z",
+    "value": "Disclaimer",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.localization.js"
+    ],
+    "id": "r7karknRsen",
+    "key": "SIGNUP__LOCALIZATION_EMPTY",
+    "new": false,
+    "timestamp": "2016-07-01T18:02:54.004Z",
+    "value": "It seems you didn't pick a localization.",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "oG9rBq9jsa",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__SETTINGS",
+    "new": false,
+    "timestamp": "2016-06-30T15:15:25.387Z",
+    "value": "Open settings",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "kG9rXngRUe",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__ONE",
+    "new": false,
+    "timestamp": "2016-06-29T13:08:35.455Z",
+    "value": "- Click the button below",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "p7kryognUx",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__THREE",
+    "new": false,
+    "timestamp": "2016-06-29T13:08:35.455Z",
+    "value": "- Turn notification button ON",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "oG9rXnkRU8",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__TWO",
+    "new": false,
+    "timestamp": "2016-06-29T13:08:35.455Z",
+    "value": "- Select \"Notifications\"",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "RoprXA68fn",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__STRONG",
+    "new": false,
+    "timestamp": "2016-06-29T13:07:51.878Z",
+    "value": "Activate them now!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "xerkqA9nfn",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__TITLE",
+    "new": false,
+    "timestamp": "2016-06-29T13:07:51.878Z",
+    "value": "It seems you've previously refused notifications",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.email.js"
+    ],
+    "id": "95kryEK4toG",
+    "key": "SIGNUP__EMAIL__CONFIRM",
+    "new": false,
+    "timestamp": "2016-06-29T10:12:36.568Z",
+    "value": "Yes",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.email.js"
+    ],
+    "id": "yKkrqE9btoX",
+    "key": "SIGNUP__EMAIL__EDIT",
+    "new": false,
+    "timestamp": "2016-06-29T10:12:36.568Z",
+    "value": "Edit",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "dX9an5A4tpX",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__MSG",
+    "new": false,
+    "timestamp": "2016-06-29T10:12:36.568Z",
+    "value": "It seems like you have not validated your e-mail yet. Please go check your mailbox (Inbox & Spam)",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "95kryEK4tBL",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__OK",
+    "new": false,
+    "timestamp": "2016-06-29T10:12:36.568Z",
+    "value": "OK",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "KzBaM7dotpG",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__RESEND",
+    "new": false,
+    "timestamp": "2016-06-29T10:12:36.568Z",
+    "value": "Cancel",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/signup.laststep.js"
+    ],
+    "id": "q4gpXMnbuqa",
+    "key": "SIGNUP__EMAIL__NOVALIDATED__TITLE",
+    "new": false,
+    "timestamp": "2016-06-29T10:12:36.568Z",
+    "value": "Oops!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.thats-all.js"
+    ],
+    "id": "q4gX96ERUR",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIFICATION",
+    "new": false,
+    "timestamp": "2016-06-23T07:29:05.432Z",
+    "value": "Let me know!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/game.qcm.2.js"
+    ],
+    "id": "7jgX84X9Ion",
+    "key": "HINT_SWIPE_LEFT",
+    "new": false,
+    "timestamp": "2016-06-17T18:05:20.836Z",
+    "value": "Swipe left to continue",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/login.password.js"
+    ],
+    "id": "95kAaneXHo4",
+    "key": "SIGNIN__PASSWORD__PLACEHOLDER",
+    "new": false,
+    "timestamp": "2016-06-08T08:58:23.750Z",
+    "value": "Password",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/login.password.js"
+    ],
+    "id": "95kAanMgSo5",
+    "key": "SIGNIN__PASSWORD__INSTRUCTION",
+    "new": false,
+    "timestamp": "2016-06-08T08:55:17.263Z",
+    "value": "I forgot my password",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/card.js",
+      "www/components/card.thats-all.js"
+    ],
+    "id": "yKkAa6GnI9",
+    "key": "NEW_CARD__THATS_ALL_FOLKS__TITLE",
+    "new": false,
+    "timestamp": "2016-06-08T08:44:35.336Z",
+    "value": "See you tomorrow!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/profile.edition.js"
+    ],
+    "id": "eEdkrrnoseq",
+    "key": "PROFILE__EDITION__HEADER__TITLE",
+    "new": false,
+    "timestamp": "2016-06-08T08:17:58.430Z",
+    "value": "Edit my Profile",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/settings.js"
+    ],
+    "id": "Rop4re9eUaz",
+    "key": "COMING__SOON__LABEL",
+    "new": false,
+    "timestamp": "2016-06-01T15:34:50.494Z",
+    "value": "This feature is coming soon.",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "aEd5edq5CLa",
+    "key": "COACH_CHEERUP_1",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "That's what I am talking about!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "r7kMdkAMfXe",
+    "key": "COACH_CHEERUP_2",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "Wow, that was something.",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "kG97p9d7SjR",
+    "key": "COACH_CHEERUP_3",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "You deserve a big hug now.",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "5jgaKgMaInk",
+    "key": "COACH_COMPLIMENT_ACTION_1",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "#proud",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "KzB8bB78I66",
+    "key": "COACH_COMPLIMENT_ACTION_2",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "I know",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "q4gaKgMaFkz",
+    "key": "COACH_CONGRATULATION_1",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "Well done!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "BbeE7e5EF9E",
+    "key": "COACH_CONGRATULATION_2",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "Amazing!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "jB9zp98zhBo",
+    "key": "COACH_CONGRATULATION_3",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "Cool!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/services/coach.js"
+    ],
+    "id": "8drperjpULn",
+    "key": "COACH_CONGRATULATION_4",
+    "new": false,
+    "timestamp": "2016-05-27T18:08:07.573Z",
+    "value": "Super Nice!",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/game.errorText.1.js"
+    ],
+    "id": "yKk899MMSKq",
+    "key": "ERROR_TEXT_QUESTION",
+    "new": false,
+    "timestamp": "2016-05-27T16:55:20.402Z",
+    "value": "Can you spot the {count, plural, one {mistake} other {# mistakes}} in the following text?",
+    "variables": [
+      "count"
+    ]
+  },
+  {
+    "files": [
+      "www/pages/maintenance.js"
+    ],
+    "id": "p7k8qGM7H4r",
+    "key": "MAINTENANCE__ACTION",
+    "new": false,
+    "timestamp": "2016-05-23T14:40:02.230Z",
+    "value": "Retry",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/maintenance.js"
+    ],
+    "id": "eEd5GK8ESnk",
+    "key": "MAINTENANCE__SUBTITLE",
+    "new": false,
+    "timestamp": "2016-05-23T14:40:02.230Z",
+    "value": "Our servers are under maintenance right now, but we should be back soon !",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/pages/maintenance.js"
+    ],
+    "id": "dX97Gg8XURE",
+    "key": "MAINTENANCE__TITLE",
+    "new": false,
+    "timestamp": "2016-05-23T14:40:02.230Z",
+    "value": "Maintenance",
+    "variables": []
+  },
+  {
+    "files": [
+      "www/components/game.directives.js"
+    ],
+    "id": "5jg47AXEtL",
+    "key": "GAME__DIRECTIVES__OPEN_QUESTION",
+    "new": false,
+    "timestamp": "2016-05-17T16:35:28.139Z",
+    "value": "Type the right answer!",
+    "variables": []
+  }
+]
