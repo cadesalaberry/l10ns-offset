@@ -21,10 +21,7 @@
       "store": "localizations//",
       "output": "www//assets//localizations",
       "source": [
-        "www/components/*.js",
-        "www/pages/*.js",
-        "www/models/*.js",
-        "www/services//*.js"
+        "www//home.js"
       ]
     }
   }
