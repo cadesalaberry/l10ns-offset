@@ -1,21 +1,18 @@
 [
   {
     "files": [
-      "www/components/badge.preview.js"
+      "www/home.js"
     ],
     "id": "p7kr9rEEte",
     "key": "BADGE__PREVIEW__NEXTLEVEL",
     "new": false,
     "timestamp": "2016-07-04T16:19:08.813Z",
     "value": "{nextLevelName} ({pointsLeft} {pointsLeft, plural, one {point} other {points}} left)",
-    "variables": [
-      "nextLevelName",
-      "pointsLeft"
-    ]
+    "variables": []
   },
   {
     "files": [
-      "www/components/popup.disclaimer.js"
+      "www/home.js"
     ],
     "id": "gEd8e77aHgz",
     "key": "DISCLAIMER_ACTION",
@@ -26,7 +23,7 @@
   },
   {
     "files": [
-      "www/components/popup.disclaimer.js"
+      "www/home.js"
     ],
     "id": "xerkp7yKspa",
     "key": "DISCLAIMER_ACCEPT",
@@ -37,7 +34,7 @@
   },
   {
     "files": [
-      "www/components/popup.disclaimer.js"
+      "www/home.js"
     ],
     "id": "67rad5EGsj9",
     "key": "DISCLAIMER_INSTRUCTIONS",
@@ -48,7 +45,7 @@
   },
   {
     "files": [
-      "www/components/popup.disclaimer.js"
+      "www/home.js"
     ],
     "id": "Ropr7j4xsxp",
     "key": "DISCLAIMER_REFUSE",
@@ -59,7 +56,7 @@
   },
   {
     "files": [
-      "www/components/popup.disclaimer.js"
+      "www/home.js"
     ],
     "id": "r7kad5EGsjz",
     "key": "DISCLAIMER_TITLE",
@@ -70,7 +67,7 @@
   },
   {
     "files": [
-      "www/components/signup.localization.js"
+      "www/home.js"
     ],
     "id": "r7karknRsen",
     "key": "SIGNUP__LOCALIZATION_EMPTY",
@@ -81,7 +78,7 @@
   },
   {
     "files": [
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "oG9rBq9jsa",
     "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__SETTINGS",
@@ -92,7 +89,7 @@
   },
   {
     "files": [
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "kG9rXngRUe",
     "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__ONE",
@@ -103,7 +100,7 @@
   },
   {
     "files": [
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "p7kryognUx",
     "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__THREE",
@@ -114,7 +111,7 @@
   },
   {
     "files": [
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "oG9rXnkRU8",
     "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__INSTRUCT__TWO",
@@ -125,7 +122,7 @@
   },
   {
     "files": [
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "RoprXA68fn",
     "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__STRONG",
@@ -136,7 +133,7 @@
   },
   {
     "files": [
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "xerkqA9nfn",
     "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIF__TITLE",
@@ -147,7 +144,7 @@
   },
   {
     "files": [
-      "www/components/signup.email.js"
+      "www/home.js"
     ],
     "id": "95kryEK4toG",
     "key": "SIGNUP__EMAIL__CONFIRM",
@@ -158,7 +155,7 @@
   },
   {
     "files": [
-      "www/components/signup.email.js"
+      "www/home.js"
     ],
     "id": "yKkrqE9btoX",
     "key": "SIGNUP__EMAIL__EDIT",
@@ -169,7 +166,7 @@
   },
   {
     "files": [
-      "www/components/signup.laststep.js"
+      "www/home.js"
     ],
     "id": "dX9an5A4tpX",
     "key": "SIGNUP__EMAIL__NOVALIDATED__MSG",
@@ -180,7 +177,7 @@
   },
   {
     "files": [
-      "www/components/signup.laststep.js"
+      "www/home.js"
     ],
     "id": "95kryEK4tBL",
     "key": "SIGNUP__EMAIL__NOVALIDATED__OK",
@@ -191,7 +188,7 @@
   },
   {
     "files": [
-      "www/components/signup.laststep.js"
+      "www/home.js"
     ],
     "id": "KzBaM7dotpG",
     "key": "SIGNUP__EMAIL__NOVALIDATED__RESEND",
@@ -202,7 +199,7 @@
   },
   {
     "files": [
-      "www/components/signup.laststep.js"
+      "www/home.js"
     ],
     "id": "q4gpXMnbuqa",
     "key": "SIGNUP__EMAIL__NOVALIDATED__TITLE",
@@ -213,7 +210,7 @@
   },
   {
     "files": [
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "q4gX96ERUR",
     "key": "NEW_CARD__THATS_ALL_FOLKS__NOTIFICATION",
@@ -224,7 +221,7 @@
   },
   {
     "files": [
-      "www/components/game.qcm.2.js"
+      "www/home.js"
     ],
     "id": "7jgX84X9Ion",
     "key": "HINT_SWIPE_LEFT",
@@ -235,7 +232,7 @@
   },
   {
     "files": [
-      "www/components/login.password.js"
+      "www/home.js"
     ],
     "id": "95kAaneXHo4",
     "key": "SIGNIN__PASSWORD__PLACEHOLDER",
@@ -246,7 +243,7 @@
   },
   {
     "files": [
-      "www/components/login.password.js"
+      "www/home.js"
     ],
     "id": "95kAanMgSo5",
     "key": "SIGNIN__PASSWORD__INSTRUCTION",
@@ -257,8 +254,7 @@
   },
   {
     "files": [
-      "www/components/card.js",
-      "www/components/card.thats-all.js"
+      "www/home.js"
     ],
     "id": "yKkAa6GnI9",
     "key": "NEW_CARD__THATS_ALL_FOLKS__TITLE",
@@ -269,7 +265,7 @@
   },
   {
     "files": [
-      "www/components/profile.edition.js"
+      "www/home.js"
     ],
     "id": "eEdkrrnoseq",
     "key": "PROFILE__EDITION__HEADER__TITLE",
@@ -280,7 +276,7 @@
   },
   {
     "files": [
-      "www/pages/settings.js"
+      "www/home.js"
     ],
     "id": "Rop4re9eUaz",
     "key": "COMING__SOON__LABEL",
@@ -291,7 +287,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "aEd5edq5CLa",
     "key": "COACH_CHEERUP_1",
@@ -302,7 +298,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "r7kMdkAMfXe",
     "key": "COACH_CHEERUP_2",
@@ -313,7 +309,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "kG97p9d7SjR",
     "key": "COACH_CHEERUP_3",
@@ -324,7 +320,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "5jgaKgMaInk",
     "key": "COACH_COMPLIMENT_ACTION_1",
@@ -335,7 +331,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "KzB8bB78I66",
     "key": "COACH_COMPLIMENT_ACTION_2",
@@ -346,7 +342,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "q4gaKgMaFkz",
     "key": "COACH_CONGRATULATION_1",
@@ -357,7 +353,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "BbeE7e5EF9E",
     "key": "COACH_CONGRATULATION_2",
@@ -368,7 +364,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "jB9zp98zhBo",
     "key": "COACH_CONGRATULATION_3",
@@ -379,7 +375,7 @@
   },
   {
     "files": [
-      "www/services/coach.js"
+      "www/home.js"
     ],
     "id": "8drperjpULn",
     "key": "COACH_CONGRATULATION_4",
@@ -390,20 +386,18 @@
   },
   {
     "files": [
-      "www/components/game.errorText.1.js"
+      "www/home.js"
     ],
     "id": "yKk899MMSKq",
     "key": "ERROR_TEXT_QUESTION",
     "new": false,
     "timestamp": "2016-05-27T16:55:20.402Z",
     "value": "Can you spot the {count, plural, one {mistake} other {# mistakes}} in the following text?",
-    "variables": [
-      "count"
-    ]
+    "variables": []
   },
   {
     "files": [
-      "www/pages/maintenance.js"
+      "www/home.js"
     ],
     "id": "p7k8qGM7H4r",
     "key": "MAINTENANCE__ACTION",
@@ -414,7 +408,7 @@
   },
   {
     "files": [
-      "www/pages/maintenance.js"
+      "www/home.js"
     ],
     "id": "eEd5GK8ESnk",
     "key": "MAINTENANCE__SUBTITLE",
@@ -425,7 +419,7 @@
   },
   {
     "files": [
-      "www/pages/maintenance.js"
+      "www/home.js"
     ],
     "id": "dX97Gg8XURE",
     "key": "MAINTENANCE__TITLE",
@@ -436,7 +430,7 @@
   },
   {
     "files": [
-      "www/components/game.directives.js"
+      "www/home.js"
     ],
     "id": "5jg47AXEtL",
     "key": "GAME__DIRECTIVES__OPEN_QUESTION",
